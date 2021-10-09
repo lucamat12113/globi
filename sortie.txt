@@ -1,0 +1,11 @@
+Vache numéro: 1, PLmax= 44.281041 
+Vache numéro: 1, PLmax= 69.045143 
+Vache numéro: 1, PLmax= 66.300365 
+Vache numéro: 1, PLmax= 63.096442 
+Vache numéro: 1, PLmax= 59.732007 
+Vache numéro: 1, PLmax= 56.095305 
+Vache numéro: 1, PLmax= 46.298322 
+Vache numéro: 1, PLmax= 22.677411 
+Vache numéro: 2, PLmax= 59.181551 
+Vache numéro: 3, PLmax= 47.357404 
+Vache numéro: 4, PLmax= 51.198863 
