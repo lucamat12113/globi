@@ -1,19 +1,19 @@
 # -*- coding: utf8 -*-
 
 #matrices
-A1=[[0,1,3,0],[8,5,0,6],[0,0,1,1]]
-print(A1)
+#A1=[[0,1,3,0],[8,5,0,6],[0,0,1,1]]
+#print(A1)
 
-B1=[[0,1],[0,0],[3,3],[9,5]]
-print(B1)
+#B1=[[0,1],[0,0],[3,3],[9,5]]
+#print(B1)
 
 #Test autres matrices
 
-#B1=[[1,3],[5,0]]
-#print(B1)
+A1=[[1,2],[3,4]]
+print(A1)
 
-#A1=[[0,1],[0,0],[3,3],[9,5]]
-#print(A1)
+B1=[[1,2,3,4],[5,6,7,8]]
+print(B1)
 
 nligneA1=len(A1) 
 print("nb de lignesA\n", nligneA1)
@@ -24,10 +24,6 @@ nligneB1=len(B1)
 print("nb de lignesB\n", nligneB1)
 ncolonneB1=len(B1[0])
 print("nb de colonnesB\n", ncolonneB1)
-
-
-
-
 
 
 produit=[[0 for j in range(ncolonneB1)] for i in range(nligneA1)]
