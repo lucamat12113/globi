@@ -97,7 +97,7 @@ while(iter==1):
     #print("Tour",nround,"valeur b",b)
 
 acoeff=0
-print("La regreesion est: age=",acoeff,"+",b,"*circonference")
+print("La regression est: age=",acoeff,"+",b,"*circonference")
 
 # Données prédites
 pred=[[0.0]*2 for i in range(nligne)]
