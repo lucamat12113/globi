@@ -10,6 +10,16 @@ poids=[[0] for i in range(nligne)]
 for j in range(nligne):
     fichier=vache.readline().split(" ")
     print(fichier)
-    poids[i]=float(fichier[1][i])
+    poids[j]=float(fichier[1][j])
 print(fichier)    
 print(poids)
+
+
+for k in range (nligne):
+    if poids[k]>poids[k+1]:
+        ite=1
+    else:
+        ite=0
+    poidsmin=poids[k]
+
+print(poidsmin)
